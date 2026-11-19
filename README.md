@@ -12,6 +12,8 @@ Después de una carrera de Assetto Corsa quiero saber dónde he perdido tiempo y
 
 ¿A qué hora va a llover en Galicia? La aplicación web permite elegir una hora y comparar la precipitación prevista por ECMWF, ICON, GFS y ARPEGE. Así puedo ver cuándo coinciden los modelos y cuándo dan previsiones distintas.
 
+[Abrir la aplicación](https://ricardopv11.github.io/galicia-rain-predictor/) · [Ver el código](https://github.com/RicardoPV11/galicia-rain-predictor)
+
 ### PC Command Agent
 
 Estoy desarrollando un agente personal para mi PC con inferencia local en la GPU. Mi objetivo es poder gestionar el equipo desde el móvil. El encendido mediante Wake-on-LAN, el apagado y el reinicio forman parte de ese objetivo.
